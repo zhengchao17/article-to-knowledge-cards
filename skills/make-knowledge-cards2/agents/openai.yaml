@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片 2"
+  short_description: "把粘贴文章或本地文本提炼为忠于原文、去重并可自测的知识卡片"
+  default_prompt: "请使用 $make-knowledge-cards2，将下面的文章或指定的本地 Markdown/TXT 文件整理为知识卡片。"

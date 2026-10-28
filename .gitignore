@@ -1,0 +1,5 @@
+# WorkBuddy internal
+.workbuddy/
+
+# Build artifacts
+dist/
